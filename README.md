@@ -1,0 +1,1 @@
+SWK "kruegsw" 2020-09-20:  This repository includes all .rb files which I generated when working through launch school course 'RB100'.
